@@ -84,9 +84,3 @@ Notes
 License
 -------
 MIT License — use and modify freely, but please give credit.
-
-Author
-------
-Arad Rouhani
-📧 Email: a.rouhaniiiiii@gmail.com
-GitHub: https://github.com/AradRouhaniiiiii
