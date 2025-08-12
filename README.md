@@ -109,7 +109,7 @@ Example message:
 
 MIT License — use and modify freely, but please give credit.
 
-## 📬 Connect With Me
+## 🌍 Connect with Me
 <p align="center">
   <a href="https://aradrouhani.com"><img src="https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white" /></a>
   <a href="https://www.instagram.com/AradRouhani_com"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
